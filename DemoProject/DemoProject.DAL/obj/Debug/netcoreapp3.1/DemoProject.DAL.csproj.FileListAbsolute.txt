@@ -1,0 +1,16 @@
+C:\Users\Duonghv9\source\repos\DemoProject\DemoProject.DAL\bin\Debug\netcoreapp3.1\DemoProject.DAL.deps.json
+C:\Users\Duonghv9\source\repos\DemoProject\DemoProject.DAL\bin\Debug\netcoreapp3.1\DemoProject.DAL.runtimeconfig.json
+C:\Users\Duonghv9\source\repos\DemoProject\DemoProject.DAL\bin\Debug\netcoreapp3.1\DemoProject.DAL.runtimeconfig.dev.json
+C:\Users\Duonghv9\source\repos\DemoProject\DemoProject.DAL\bin\Debug\netcoreapp3.1\DemoProject.DAL.dll
+C:\Users\Duonghv9\source\repos\DemoProject\DemoProject.DAL\bin\Debug\netcoreapp3.1\DemoProject.DAL.pdb
+C:\Users\Duonghv9\source\repos\DemoProject\DemoProject.DAL\bin\Debug\netcoreapp3.1\DemoProject.Models.dll
+C:\Users\Duonghv9\source\repos\DemoProject\DemoProject.DAL\bin\Debug\netcoreapp3.1\DemoProject.Models.pdb
+C:\Users\Duonghv9\source\repos\DemoProject\DemoProject.DAL\obj\Debug\netcoreapp3.1\DemoProject.DAL.csproj.AssemblyReference.cache
+C:\Users\Duonghv9\source\repos\DemoProject\DemoProject.DAL\obj\Debug\netcoreapp3.1\DemoProject.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duonghv9\source\repos\DemoProject\DemoProject.DAL\obj\Debug\netcoreapp3.1\DemoProject.DAL.AssemblyInfoInputs.cache
+C:\Users\Duonghv9\source\repos\DemoProject\DemoProject.DAL\obj\Debug\netcoreapp3.1\DemoProject.DAL.AssemblyInfo.cs
+C:\Users\Duonghv9\source\repos\DemoProject\DemoProject.DAL\obj\Debug\netcoreapp3.1\DemoProject.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Duonghv9\source\repos\DemoProject\DemoProject.DAL\obj\Debug\netcoreapp3.1\DemoProject.DAL.csproj.CopyComplete
+C:\Users\Duonghv9\source\repos\DemoProject\DemoProject.DAL\obj\Debug\netcoreapp3.1\DemoProject.DAL.dll
+C:\Users\Duonghv9\source\repos\DemoProject\DemoProject.DAL\obj\Debug\netcoreapp3.1\DemoProject.DAL.pdb
+C:\Users\Duonghv9\source\repos\DemoProject\DemoProject.DAL\obj\Debug\netcoreapp3.1\DemoProject.DAL.genruntimeconfig.cache

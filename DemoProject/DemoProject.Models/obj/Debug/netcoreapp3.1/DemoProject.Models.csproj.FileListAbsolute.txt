@@ -1,0 +1,12 @@
+C:\Users\Duonghv9\source\repos\DemoProject\DemoProject.Models\bin\Debug\netcoreapp3.1\DemoProject.Models.deps.json
+C:\Users\Duonghv9\source\repos\DemoProject\DemoProject.Models\bin\Debug\netcoreapp3.1\DemoProject.Models.runtimeconfig.json
+C:\Users\Duonghv9\source\repos\DemoProject\DemoProject.Models\bin\Debug\netcoreapp3.1\DemoProject.Models.runtimeconfig.dev.json
+C:\Users\Duonghv9\source\repos\DemoProject\DemoProject.Models\bin\Debug\netcoreapp3.1\DemoProject.Models.dll
+C:\Users\Duonghv9\source\repos\DemoProject\DemoProject.Models\bin\Debug\netcoreapp3.1\DemoProject.Models.pdb
+C:\Users\Duonghv9\source\repos\DemoProject\DemoProject.Models\obj\Debug\netcoreapp3.1\DemoProject.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duonghv9\source\repos\DemoProject\DemoProject.Models\obj\Debug\netcoreapp3.1\DemoProject.Models.AssemblyInfoInputs.cache
+C:\Users\Duonghv9\source\repos\DemoProject\DemoProject.Models\obj\Debug\netcoreapp3.1\DemoProject.Models.AssemblyInfo.cs
+C:\Users\Duonghv9\source\repos\DemoProject\DemoProject.Models\obj\Debug\netcoreapp3.1\DemoProject.Models.csproj.CoreCompileInputs.cache
+C:\Users\Duonghv9\source\repos\DemoProject\DemoProject.Models\obj\Debug\netcoreapp3.1\DemoProject.Models.dll
+C:\Users\Duonghv9\source\repos\DemoProject\DemoProject.Models\obj\Debug\netcoreapp3.1\DemoProject.Models.pdb
+C:\Users\Duonghv9\source\repos\DemoProject\DemoProject.Models\obj\Debug\netcoreapp3.1\DemoProject.Models.genruntimeconfig.cache
